@@ -20,7 +20,7 @@ class MainViewModel : ViewModel() {
         Movie("Harry Potter", 5),
         Movie("The Pianist", 3),
         Movie("Sherlock Holmes", 4)
-    )
+    ).sortedByDescending { it.rate }
 
 }
 

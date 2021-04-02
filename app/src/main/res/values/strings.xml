@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Compose accessible sticky list</string>
+    <string name="rate_header_content_description">The following items have a rate of %1s</string>
+
 </resources>
